@@ -1,0 +1,5 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": { "outFile": "./build-test/test.js", "lib": ["es2015", "dom"] },
+  "files": ["./src/reglas.ts", "./tests/reglas.test.ts"]
+}

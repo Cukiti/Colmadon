@@ -1,0 +1,5 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": { "outFile": "./build-test/paridad.js", "lib": ["es2015", "dom"] },
+  "files": ["./src/reglas.ts", "./tests/paridad.test.ts"]
+}

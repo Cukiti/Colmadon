@@ -1,0 +1,24 @@
+# Configuración de Nakama para desarrollo local (servidor/arrancar.sh).
+# En la nube se usará otra con claves propias.
+name: colmadon-local
+data_dir: "./datos/nakama"
+logger:
+  level: "INFO"
+  stdout: true
+session:
+  token_expiry_sec: 604800        # 7 días
+  refresh_token_expiry_sec: 2592000
+runtime:
+  path: "./modulo/build"
+  js_entrypoint: "index.js"
+  env:
+    - "COLMADON_PRUEBAS=1"        # solo el servidor local: órdenes de prueba (forzar un tranque)
+socket:
+  server_key: "colmadon-dev"      # solo local; en la nube será secreta
+  port: 7350
+console:
+  port: 7351
+  username: "admin"
+match:
+  input_queue_size: 128
+  call_queue_size: 128

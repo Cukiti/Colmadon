@@ -1,0 +1,37 @@
+COLMADÓN · GUÍA DEL DÍA DE PRUEBAS
+Versión del 9 de octubre de 2026 (servidor y exportes de las 13:30)
+=====================================================================
+
+Pantallas, interacciones y mecánicas del juego, para revisarlas una a una.
+Al final hay 10 líneas numeradas para tus observaciones.
+
+
+
+=====================================================================
+OBSERVACIONES
+=====================================================================
+
+#1: Lo primero es que cuando estaba colocando e organizando las pantallas en el windows haciendo los snaps layaouts de las 4 ventanas del juego no se querían pocisionar de forma rápida ósea seleccionándolas haciendo que sea mas versátil la distruibucion o colocación de cualquier ventana o interacción. Nose si es por godot que no deja darle click a la ventana para una colocación rápida o que pero eso hay que ver si lo resolvemos. 
+
+#2: Cuando el jugador entra al juego y anteriormente estaba jugando una partida en el servidor de forma online aparece el botón de volver a la sala pero si esa partida ya termino porque el botón sigue apareciendo? hay que mejorar la función de ese botón y hacerlo mas inmersivo ya que si un streamer esta en vivo aparecerá el mensaje con el código de la sala de "Volviendo a la sala KTJ123"
+
+#3: Ya lo ultimo observado en esa screen es que los botones necesitan iconos asi como el botón de ajustes en pixelart con aseprite.
+
+#4: En esa screen de la pizarra algo que note es que la vitrina donde esta el mostrador del colmado esta muy junto a la pizarra y esta tapando un poco la pizarra.
+
+#5: Los botones de partida rápida y Domino clásico siento que deberían ser un solo apartado ya que si lo fusionamos y lo llamamos Domino con bots y que cuando entre lo primero que vea dos opciones en grande como dos folletos uno a la izquierda y otro a la derecha ocupando la pantalla completa con su arte distintiva de juego ya sea Domino clásico o con aumentos y bebidas. algo asi quiero para distinguirlo de las cartas o aumentos para que el jugador no piense que son las mismas screen. Dame ideas y mejoras para implementar esta idea.
+
+#6: Cuando los jugadores están dentro de la sala todas las screen miran hacia un solo lado que es el por default en el juego que es la silla de abajo mirando hacia el mostrador sin haberle dado a jugar todavía porque cuando el anfitrión presiona el botón de jugar todas las posiciones se arreglan entones desde que el jugador entre a la sala se tiene que ver desde donde esta sentado. Si tienes alguna duda o pregunta házmela para abordar cualquier incomprensión.
+
+#7: Cuando ninguno de los jugadores recoje sus fichas y deja pasar el tiempo para recojerlas se recojen instantáneamente y eso esta mal ya que se tiene que cumplir la animación de recojida 
+
+#8:
+
+#9:
+
+#10:
+
+#11:
+
+
+

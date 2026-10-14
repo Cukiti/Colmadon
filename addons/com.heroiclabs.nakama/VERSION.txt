@@ -1,0 +1,1 @@
+nakama-godot commit 6dc7b39 (heroiclabs/nakama-godot master, 2026-09-21). Sin dotnet-utils ni Satori.

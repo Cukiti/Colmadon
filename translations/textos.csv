@@ -1,0 +1,795 @@
+keys,es,en
+Copiar registro de fallos,Copiar registro de fallos,Copy crash log
+Copia información técnica; no se envía automáticamente,Copia información técnica; no se envía automáticamente,Copies technical information; nothing is sent automatically
+Copiado,Copiado,Copied
+Compartir registro de fallos,Compartir registro de fallos,Share crash log
+No se pudo copiar el registro,No se pudo copiar el registro,Could not copy the log
+%s quiere la revancha,%s quiere la revancha,%s wants a rematch
+Quieren revancha: %s,Quieren revancha: %s,Want a rematch: %s
+Tú,Tú,You
+"El que tranca, cobra.","El que tranca, cobra.","Who blocks the game, takes the pot."
+Cuidado con el chivo: el que sigue siempre está mirando.,Cuidado con el chivo: el que sigue siempre está mirando.,Mind your chivo: the next player is always watching.
+Suelta los dobles antes de que te los ahorquen.,Suelta los dobles antes de que te los ahorquen.,"Play your doubles early, or they'll hang around your neck."
+"Si tu compañero pasó a un número, no se lo vuelvas a dar.","Si tu compañero pasó a un número, no se lo vuelvas a dar.","When your partner can't play a number, don't serve it twice."
+Un ron te alegra… y te despista.,Un ron te alegra… y te despista.,Rum warms the heart… and fogs the head.
+"Cuenta las fichas: si ya salieron seis del 4, el 4 está muerto.","Cuenta las fichas: si ya salieron seis del 4, el 4 está muerto.","Count the tiles: once six fours are out, the four is dead."
+El agua fría deja al rival sin turno.,El agua fría deja al rival sin turno.,Cold water leaves your rival high and dry.
+"Las fichas pesadas, mejor soltarlas temprano.","Las fichas pesadas, mejor soltarlas temprano.",Heavy tiles are best let go early.
+La capicúa vale más con la carta Capicúa.,La capicúa vale más con la carta Capicúa.,A capicúa pays more with the Capicúa card.
+En el colmado se fía… pero las bebidas se pagan.,En el colmado se fía… pero las bebidas se pagan.,The colmado gives credit… but the drinks still get paid.
+«%s»,«%s»,“%s”
+Abriendo el colmado…,Abriendo el colmado…,Opening the colmado…
+Barajando las fichas…,Barajando las fichas…,Shuffling the tiles…
+NOSOTROS,NOSOTROS,US
+ELLOS,ELLOS,THEM
+Pausa (Esc),Pausa (Esc),Pause (Esc)
+Ver mesa,Ver mesa,View table
+Volver,Volver,Back
+META %d · MANO %d,META %d · MANO %d,TARGET %d · HAND %d
+Elige tus fichas · %d/7,Elige tus fichas · %d/7,Pick your tiles · %d/7
+TU TURNO,TU TURNO,YOUR TURN
+Juega %s…,Juega %s…,%s is playing…
+TU TURNO · sale el doble seis,TU TURNO · sale el doble seis,YOUR TURN · lead with the double six
+Toca la punta donde la pones,Toca la punta donde la pones,Tap the end where it goes
+No llevas · pasas solo (o mete un chivo…),No llevas ficha: toca PASO (o mete un chivo…),Nothing to play · you'll pass (or sneak in a chivo…)
+¡CHIVO!,¡CHIVO!,CHIVO!
+"Canta si el jugador anterior
+metió una ficha que no casa
+o pasó teniendo ficha.
+Si fallas, pagas %d monedas.","Canta si el jugador anterior
+metió una ficha que no casa
+o pasó teniendo ficha.
+Si fallas, pagas %d monedas.","Call it if the previous player
+slipped in a tile that doesn't match
+or passed with a playable tile.
+If you're wrong, you pay %d coins."
+Pasar,Pasar,Pass
+"Pasar teniendo ficha es chivo:
+si el siguiente lo canta,
+perdéis la mano.","Pasar teniendo ficha es chivo:
+si el siguiente lo canta,
+pierden la mano.","Passing with a playable tile is a chivo:
+if the next player calls it,
+your team loses the hand."
+%d bebida,%d bebida,%d drink
+%d bebidas,%d bebidas,%d drinks
+¡Paso!,¡Paso!,Pass!
+¡CHIVO CANTADO!,¡CHIVO CANTADO!,CHIVO CALLED!
+Pasó teniendo ficha,Pasó teniendo ficha,Passed with a playable tile
+Falsa alarma · -%d monedas,Falsa alarma · -%d monedas,False alarm · -%d coins
+¡Agua fría! Pierde turno,¡Agua fría! Pierde turno,Cold water! Turn skipped
+Café: ¡otra!,Café: ¡otra!,Coffee: go again!
+¡%s!,¡%s!,%s!
+¡Mano caliente! +50 %,¡Mano caliente! +50 %,Hot hand! +50%
+"¡Ay, qué rico!","¡Ay, qué rico!","Ay, that's good!"
+¡Despierto!,¡Despierto!,Wide awake!
+¡Brrr!,¡Brrr!,Brrr!
+¡Mmm!,¡Mmm!,Mmm!
+Chivo metido… ¿se darán cuenta?,Chivo metido… ¿se darán cuenta?,Chivo slipped in… will they notice?
+Un doble no se puede meter de chivo,Un doble no se puede meter de chivo,A double can't be slipped in as a chivo
+No puedes dominar con chivo,No puedes dominar con chivo,You can't go out on a chivo
+No cabe · arrástrala si quieres meter chivo,No cabe · arrástrala si quieres meter chivo,Doesn't fit · drag it if you want to slip in a chivo
+Se perdió la conexión con el colmado,Se perdió la conexión con el colmado,Lost the connection to the colmado
+¡DOMINÓ!,¡DOMINÓ!,DOMINO!
+¡TRANQUE!,¡TRANQUE!,TRANQUE!
+¡CAPICÚA!,¡CAPICÚA!,CAPICÚA!
+MANO %d · ELIGE UN AUMENTO,MANO %d · ELIGE UN AUMENTO,HAND %d · PICK A BOOST
+Los aumentos se suman toda la partida,Los aumentos se suman toda la partida,Boosts stack for the whole game
+ELIGE TU JUGADOR,ELIGE TU JUGADOR,PICK YOUR PLAYER
+Así te verán los demás en la mesa,Así te verán los demás en la mesa,This is how the others will see you at the table
+EL COLMADO,EL COLMADO,THE COLMADO
+Tu pareja gana,Tu pareja gana,Your team wins
+Los rivales ganan,Los rivales ganan,The rivals win
+%s la mano por %s · +%d pts,%s la mano por %s · +%d pts,%s the hand by %s · +%d pts
+dominó,dominó,domino
+tranque,tranque,tranque
+chivo,chivo,chivo
+%s compró %s,%s compró %s,%s bought %s
+%d  (+%d)   ·   Bebidas %d/%d,%d  (+%d)   ·   Bebidas %d/%d,%d  (+%d)   ·   Drinks %d/%d
+SIGUIENTE MANO  ▶,SIGUIENTE MANO  ▶,NEXT HAND  ▶
+Ver la mesa,Ver la mesa,View table
+Tu pareja ganó,Tu pareja ganó,Your team won
+Los rivales ganaron,Los rivales ganaron,The rivals won
+chivo cantado,chivo cantado,a called chivo
+Así quedó la mesa · %s por %s,Así quedó la mesa · %s por %s,Final table · %s by %s
+Desde arriba,Desde arriba,From above
+Desde abajo,Desde abajo,From below
+¡GANAMOS!,¡GANAMOS!,WE WON!
+Nos ganaron…,Nos ganaron…,They beat us…
+La cuenta del colmadero,La cuenta del colmadero,The shopkeeper's tally
+Nosotros,Nosotros,Us
+Ellos,Ellos,Them
+Puntos,Puntos,Points
+Manos ganadas,Manos ganadas,Hands won
+Dominós,Dominós,Dominoes
+Tranques,Tranques,Tranques
+Capicúas,Capicúas,Capicúas
+Chivos cantados,Chivos cantados,Chivos called
+Bebidas tomadas,Bebidas tomadas,Drinks downed
+Mejor mano,Mejor mano,Best hand
++%d pesos para el armario  (tienes %d),+%d pesos para el armario  (tienes %d),+%d pesos for the wardrobe  (you have %d)
+REVANCHA,REVANCHA,REMATCH
+Volver al colmado,Volver al colmado,Back to the colmado
+PAUSA,PAUSA,PAUSED
+SEGUIR,SEGUIR,RESUME
+AJUSTES,AJUSTES,SETTINGS
+SALIR AL COLMADO,SALIR AL COLMADO,BACK TO THE COLMADO
+Esperando a que los demás elijan…,Esperando a que los demás elijan…,Waiting for the others to pick…
+Esperando a los demás para la siguiente mano…,Esperando a los demás para la siguiente mano…,Waiting for the others for the next hand…
+Esperando a que los demás quieran la revancha…,Esperando a que los demás quieran la revancha…,Waiting to see if the others want a rematch…
+%s (bot),%s (bot),%s (bot)
+SALA CON AMIGOS,SALA CON AMIGOS,FRIENDS' TABLE
+Copiar código,Copiar código,Copy code
+¡Copiado!,¡Copiado!,Copied!
+"Esperando jugadores · %d de 4 · si faltan, los bots juegan las sillas libres","Esperando jugadores · %d de 4 · si faltan, los bots juegan las sillas libres",Waiting for players · %d of 4 · bots take any empty seats
+¡A JUGAR!,¡A JUGAR!,LET'S PLAY!
+Esperando a que el anfitrión empiece…,Esperando a que el anfitrión empiece…,Waiting for the host to start…
+Salir,Salir,Leave
+Doble fuerte,Doble fuerte,Heavy Double
+Dominas con un doble: +30 puntos.,Dominas con un doble: +30 puntos.,Domino with a double: +30 points.
+Capicúa,Capicúa,Capicúa
+Dominas con capicúa: +25 puntos.,Dominas con capicúa: +25 puntos.,Domino with a capicúa: +25 points.
+Cierre ruidoso,Cierre ruidoso,Table Slam
+Cada vez que dominas: +6 puntos.,Cada vez que dominas: +6 puntos.,Every time you go out: +6 points.
+Pasador,Pasador,The Passer
+Cada vez que pasas: +4 monedas.,Cada vez que pasas: +4 monedas.,Every time you pass: +4 coins.
+Bolsillo,Bolsillo,Deep Pockets
+Ganas la mano: +8 monedas.,Ganas la mano: +8 monedas.,Win the hand: +8 coins.
+Ojo pícaro,Ojo pícaro,Sly Eye
+Al empezar cada mano ves 1 ficha de cada rival.,Al empezar cada mano ves 1 ficha de cada rival.,"At the start of each hand, see 1 tile from each rival."
+Mano ligera,Mano ligera,Light Hand
+"Si perdéis, tus fichas dan un 25 % menos a los rivales.","Si pierden la mano, tus fichas le dan a los rivales un 25 % menos de puntos.","If you lose, your tiles give rivals 25 % fewer points."
+Fiado,Fiado,On the Tab
+Las bebidas te cuestan 3 monedas menos.,Las bebidas te cuestan 3 monedas menos.,Drinks cost you 3 coins less.
+Café,Café,Coffee
+Este turno juegas 2 fichas seguidas.,Este turno juegas 2 fichas seguidas.,This turn you play 2 tiles in a row.
+Ron,Ron,Rum
+"Mano caliente: si tu pareja gana esta mano, +50 % de puntos.","Mano caliente: si tu pareja gana esta mano, +50 % de puntos.","Hot hand: if your team wins this hand, +50% points."
+Morir soñando,Morir soñando,Morir Soñando
+Ves la mano de tu compañero esta mano.,Ves la mano de tu compañero esta mano.,See your partner's tiles this hand.
+Agua fría,Agua fría,Cold Water
+El rival siguiente pierde su próximo turno.,El rival siguiente pierde su próximo turno.,The next rival loses their next turn.
+Cierre ruidoso +6,Cierre ruidoso +6,Table Slam +6
+Doble fuerte +30,Doble fuerte +30,Heavy Double +30
+¡Capicúa! +25,¡Capicúa! +25,Capicúa! +25
+Mano ligera −%d,Mano ligera −%d,Light Hand −%d
+Mano caliente +%d,Mano caliente +%d,Hot Hand +%d
+Ficha marcada,Ficha marcada,Marked Tile
+Ves a qué números pasa cada rival. +3 por cada pase tras tu ficha si ganáis.,Ves a qué números pasa cada rival. Si ganan la mano: +3 por cada pase después de tu ficha.,See which numbers each rival passes on. +3 per pass after your tile if you win.
+Doble suerte,Doble suerte,Lucky Double
+Juegas un doble y llevas el de la otra punta: pones los dos.,"Si juegas un doble y tienes el doble de la otra punta, pones los dos de una vez.",Play a double while holding the other end's double: place both.
+Tranque seguro,Tranque seguro,Safe Block
+Tranque empatado a puntos: lo ganáis vosotros.,"Si el tranque queda empatado a puntos, lo ganan ustedes.",A tied block goes to your team.
+Ficha marcada +%d,Ficha marcada +%d,Marked Tile +%d
+JUGAR,JUGAR,PLAY
+PERSONAJE,PERSONAJE,CHARACTER
+ARMARIO,ARMARIO,WARDROBE
+SALIR,SALIR,QUIT
+Dominó por parejas · cartas · bebidas · chivos,Dominó por parejas · cartas · bebidas · chivos,Partner dominoes · cards · drinks · chivos
+JUGAR ▸,JUGAR ▸,PLAY ▸
+PRONTO,PRONTO,SOON
+Hoy se juega,Hoy se juega,Tonight we play
+Tú y Don Fello contra Yeya y Chichí · 10–15 min,Tú y Don Fello contra Yeya y Chichí · 10–15 min,You and Don Fello vs. Yeya and Chichí · 10–15 min
+Sala con amigos,Sala con amigos,Friends' table
+Código de 6 letras · juega con tu gente,Código de 6 letras · juega con tu gente,6-character code · play with your crew
+Clasificatoria,Clasificatoria,Ranked
+Solo o en pareja · sube tu ELO,Solo o en pareja · sube tu ELO,Solo or duo · climb the ELO
+‹ Volver a la calle,‹ Volver a la calle,‹ Back to the street
+Ganadas  %s     Meta 100,Ganadas  %s     Meta 100,Wins  %s     Target 100
+Juegas como:,Juegas como:,Playing as:
+(sin nombre),(sin nombre),(no name)
+cambiar ▸,cambiar ▸,change ▸
+Ponle un nombre a tu personaje en el espejo para jugar online.,Ponle nombre a tu personaje en «Tu personaje» para jugar en línea.,Give your character a name at the mirror to play online.
+Llamando al colmado…,Llamando al colmado…,Calling the colmado…
+▸ Crear una sala nueva,▸ Crear una sala nueva,▸ Open a new table
+Tengo un código:,Tengo un código:,I have a code:
+Entrar ▸,Entrar ▸,Join ▸
+El código tiene 6 letras,El código tiene 6 letras,The code is 6 characters long
+‹ Volver a la pizarra,‹ Volver a la pizarra,‹ Back to the chalkboard
+TUS PERSONAJES,TUS PERSONAJES,YOUR CHARACTERS
+Sin nombre,Sin nombre,No name
++ Nuevo,+ Nuevo,+ New
+Nombre,Nombre,Name
+Ponle un nombre,Ponle un nombre,Give them a name
+¡Falta el nombre!,¡Falta el nombre!,Name missing!
+Piel,Piel,Skin
+Tono %d,Tono %d,Tone %d
+Cabeza,Cabeza,Head
+Pelo,Pelo,Hair
+Camisa,Camisa,Shirt
+Estampado,Estampado,Pattern
+Cara,Cara,Face
+Rizos,Rizos,Curls
+Moño,Moño,Bun
+Calvo,Calvo,Bald
+Pañuelo,Pañuelo,Headscarf
+Gorra,Gorra,Cap
+Sombrero,Sombrero,Straw hat
+Negro,Negro,Black
+Castaño,Castaño,Brown
+Claro,Claro,Light
+Canoso,Canoso,Gray
+Rojizo,Rojizo,Reddish
+Turquesa,Turquesa,Turquoise
+Azul,Azul,Blue
+Amarillo,Amarillo,Yellow
+Rojo,Rojo,Red
+Blanco,Blanco,White
+Verde,Verde,Green
+Rosado,Rosado,Pink
+Naranja,Naranja,Orange
+Guayabera,Guayabera,Guayabera
+Flores,Flores,Floral
+Camiseta 7,Camiseta 7,Jersey 7
+Rayas,Rayas,Stripes
+Afeitado,Afeitado,Clean-shaven
+Bigote,Bigote,Mustache
+Barba,Barba,Beard
+Labios pintados,Labios pintados,Lipstick
+Gafas,Lentes,Glasses
+Aros,Aros,Hoop earrings
+Cadena,Cadena,Chain
+Al azar,Al azar,Random
+Borrar,Borrar,Delete
+GUARDAR,GUARDAR,SAVE
+Guiñar,Guiñar,Wink
+Beber,Beber,Drink
+Reír,Reír,Laugh
+¡Capicúa!,¡Capicúa!,Capicúa!
+EL ARMARIO,EL ARMARIO,THE WARDROBE
+%d pesos,%d pesos,%d pesos
+Fichas,Fichas,Tiles
+Mesa,Mesa,Table
+Vasos,Vasos,Cups
+Marfil,Marfil,Ivory
+Negras,Negras,Black
+Madera,Madera,Wood
+Cristal,Cristal,Crystal
+Doradas,Doradas,Gold
+Plástico de calle,Plástico de calle,Street plastic
+Turquesa pintada,Turquesa pintada,Painted turquoise
+Verde casino,Verde casino,Casino green
+Vaso,Vaso,Cup
+Jarrito de barro,Jarrito de barro,Clay mug
+Copa,Copa,Goblet
+✓ Puesto,✓ Puesto,✓ In use
+Tuyo,Tuyo,Owned
+"Los pesos se ganan jugando: más si ganas, haces capicúa o cantas chivo.","Los pesos se ganan jugando: más si ganas, haces capicúa o cantas chivo.","You earn pesos by playing: more if you win, make a capicúa or call a chivo."
+< VOLVER,< VOLVER,< BACK
+Te faltan %d pesos,Te faltan %d pesos,You're %d pesos short
+¡Comprado!,¡Comprado!,Bought!
+Efectos,Efectos,Effects
+Ambiente del colmado,Ambiente del colmado,Colmado ambience
+Música · pronto,Música · pronto,Music · coming soon
+Sacudida de cámara,Sacudida de cámara,Camera shake
+Normal,Normal,Normal
+Suave,Suave,Soft
+Apagada,Apagada,Off
+Píxeles del 3D,Píxeles del 3D,3D pixels
+Grandes,Grandes,Large
+Finos,Finos,Fine
+Pantalla completa,Pantalla completa,Fullscreen
+No,No,No
+Sí,Sí,Yes
+LISTO,LISTO,DONE
+Idioma,Idioma,Language
+Automático,Automático,Automatic
+Bebidas · Dominó · Fiao,Bebidas · Dominó · Fiao,Drinks · Dominoes · Tabs
+No se pudo conectar con el colmado (%s),No se pudo conectar con el colmado (%s),Couldn't reach the colmado (%s)
+No se pudo abrir la conexión (%s),No se pudo abrir la conexión (%s),Couldn't open the connection (%s)
+No se pudo crear la sala (%s),No se pudo crear la sala (%s),Couldn't open the table (%s)
+No se pudo buscar la sala (%s),No se pudo buscar la sala (%s),Couldn't look up the table (%s)
+La sala está llena,La sala está llena,The table is full
+No se pudo entrar en la sala (%s),No se pudo entrar en la sala (%s),Couldn't join the table (%s)
+No hay ninguna sala con ese código,No hay ninguna sala con ese código,There's no table with that code
+No se puede hacer eso ahora,No se puede hacer eso ahora,You can't do that right now
+código no válido,código no válido,invalid code
+el código tiene 6 letras,el código tiene 6 letras,the code is 6 characters long
+"¡Pásate, compai!","¡Pásate, compai!","Go on, pass, compai!"
+Ese chivo te lo vi,Ese chivo te lo vi,I saw that chivo
+¡Buena jugada!,¡Buena jugada!,Nice play!
+"¡Ay, mi madre!","¡Ay, mi madre!","Ay, mi madre!"
+Esto se tranca,Esto se tranca,This one's gonna lock up
+¡Échate un trago!,¡Échate un trago!,Have a swig!
+"Gracias, compai","Gracias, compai","Thanks, compai"
+Jugador,Jugador,Player
+Esa frase no existe,Esa frase no existe,That phrase doesn't exist
+¡%s se sentó!,¡%s se sentó!,%s sat down!
+%s se fue · juega un bot,%s se fue · juega un bot,%s left · a bot plays
+%s volvió,%s volvió,%s is back
+%s (ausente),%s (ausente),%s (away)
+Borrar mis datos online,Borrar mis datos online,Delete my online data
+¿Seguro? Se borra tu cuenta online; tus personajes y pesos de este dispositivo se quedan,¿Seguro? Se borra tu cuenta en línea; tus personajes y pesos de este dispositivo se conservan,Sure? Your online account will be deleted; your characters and pesos on this device stay
+"Sí, borrar","Sí, borrar","Yes, delete"
+Cancelar,Cancelar,Cancel
+Borrando…,Borrando…,Deleting…
+Listo: tu cuenta online se borró,Listo: tu cuenta online se borró,Done: your online account was deleted
+Sal de la sala antes de borrar tu cuenta,Sal de la sala antes de borrar tu cuenta,Leave the table before deleting your account
+No se pudo borrar la cuenta (%s),No se pudo borrar la cuenta (%s),Couldn't delete the account (%s)
+¡Doble suerte!,¡Doble suerte!,Lucky Double!
+Pasó: %s,Pasó: %s,Passed: %s
+Tu personaje,Tu personaje,Your character
+Jugar,Jugar,Play
+Armario,Armario,Wardrobe
+Ajustes,Ajustes,Settings
+Calle,Calle,Street
+Volumen,Volumen,Volume
+Música,Música,Music
+Radio,Radio,Radio
+Tu música,Tu música,Your music
++ Añadir canciones,+ Añadir canciones,+ Add songs
+Abrir carpeta,Abrir carpeta,Open folder
+Solo la oyes tú: tu música no se envía a nadie,Solo la oyes tú: tu música no se envía a nadie,Only you hear it: your music is never sent to anyone
+Colmadón FM · música del colmado,Colmadón FM · música del colmado,Colmadón FM · music
+Tu carpeta de música está vacía,Tu carpeta de música está vacía,Your music folder is empty
+Radio apagada,Radio apagada,Radio off
+Elige tus canciones,Elige tus canciones,Choose your songs
+%d canciones añadidas,%d canciones añadidas,%d songs added
+%d canción añadida,%d canción añadida,%d song added
+Anterior,Anterior,Previous
+Pausa / seguir,Pausa / seguir,Pause / resume
+Siguiente,Siguiente,Next
+Cuerpo,Cuerpo,Body
+Ropa,Ropa,Clothes
+Detalles,Detalles,Details
+Hombre,Hombre,Man
+Mujer,Mujer,Woman
+Aretes,Aretes,Earrings
+Labios,Labios,Lips
+Ninguna,Ninguna,None
+Ningunos,Ningunos,None
+Naturales,Naturales,Natural
+Redondas,Redondas,Round
+Cuadradas,Cuadradas,Square
+De sol,De sol,Sunglasses
+De abuela,De abuela,Granny
+De colores,De colores,Colorful
+Argollas,Argollas,Big hoops
+Bolitas,Bolitas,Studs
+Diamantes,Diamantes,Diamonds
+Perlas,Perlas,Pearls
+Rojos,Rojos,Red
+Rosados,Rosados,Pink
+Morados,Morados,Purple
+Con brillo,Con brillo,Glossy
+Hablar,Hablar,Talk
+Sin aumentos ni bebidas · el renuncio pierde la partida,Sin aumentos ni bebidas · el renuncio pierde la partida,No boosts or drinks · a renege loses the whole game
+Modo de la sala:,Modo de la sala:,Room mode:
+Con aumentos,Con aumentos,With boosts
+Clásico,Clásico,Classic
+RECOGER MIS FICHAS,RECOGER MIS FICHAS,PICK UP MY TILES
+Te quedan %d s para elegir,Te quedan %d s para elegir,%d s left to choose
+¡UTE VA!,¡UTE VA!,YOU HAD ONE!
+PASO  ✋,PASO  ✋,PASS  ✋
+No llevo: toco la mesa.,No llevo: toco la mesa.,I have none: I knock on the table.
+perdéis la partida,pierden la partida,you lose the whole game
+ganáis la mano,ganan la mano,you win the hand
+perdéis la mano,pierden la mano,you lose the hand
+¡Renuncio! Pasó teniendo ficha,¡Renuncio! Pasó teniendo ficha,Renege! Passed holding a tile
+No iba: ¡de verdad no llevaba!,No iba: ¡de verdad no llevaba!,Clean: they really had none!
+¡RENUNCIO!,¡RENUNCIO!,RENEGE!
+¡PASE DE SALIDA!,¡PASE DE SALIDA!,OPENING PASS!
+¡PASE CORRIDO!,¡PASE CORRIDO!,FULL ROUND PASS!
+¡NO IBA!,¡NO IBA!,CLEAN PASS!
+¡PASE CORRIDO! NADIE FUE,¡PASE CORRIDO! NADIE FUE,FULL ROUND PASS! NOBODY PLAYED
+¡NO IBA! ACUSACIÓN FALSA,¡NO IBA! ACUSACIÓN FALSA,CLEAN PASS! FALSE ACCUSATION
+Pases de +30,Pases de +30,+30 passes
+Cuenta %s: %d,Cuenta %s: %d,%s counts: %d
+¡%d PUNTOS!,¡%d PUNTOS!,%d POINTS!
+%d con aumentos,%d con aumentos,%d with boosts
+Nosotros %d  ·  Ellos %d   (meta %d),Nosotros %d  ·  Ellos %d   (meta %d),Us %d  ·  Them %d   (goal %d)
+MANO %d,MANO %d,HAND %d
+Se cortó la conexión · reconectando…,Se cortó la conexión · reconectando…,Connection lost · reconnecting…
+¡De vuelta en la mesa!,¡De vuelta en la mesa!,Back at the table!
+No estabas en ninguna sala,No estabas en ninguna sala,You weren't in a room
+No se pudo volver a la sala (%s),No se pudo volver a la sala (%s),Couldn't get back to the room (%s)
+renuncio,renuncio,renege
+salida,salida,opening pass
+corrido,corrido,full round pass
+acusado,acusado,false accusation
+PARARSE  ⇧,PARARSE  ⇧,STAND UP  ⇧
+SENTARSE,SENTARSE,SIT DOWN
+EMPUJAR,EMPUJAR,SHOVE
+Bailar,Bailar,Dance
+Aplaudir,Aplaudir,Clap
+Señalar,Señalar,Point
+Saludar,Saludar,Wave
+Estirarse,Estirarse,Stretch
+TAPAR MIS FICHAS,TAPAR MIS FICHAS,COVER MY TILES
+DESTAPAR,DESTAPAR,UNCOVER
+WASD o flechas: caminar · arrastra: mirar,WASD o flechas: caminar · arrastra: mirar,WASD or arrows: walk · drag: look
+Joystick: caminar · arrastra: mirar,Joystick: caminar · arrastra: mirar,Joystick: walk · drag: look
+¡TE TOCA! Siéntate para jugar,¡TE TOCA! Siéntate para jugar,YOUR TURN! Sit down to play
+%s por %s,%s por %s,%s by %s
+Te paras con tus fichas escondidas…,Te paras con tus fichas escondidas…,You stand up hiding your tiles…
+De vuelta en tu silla,De vuelta en tu silla,Back in your chair
+"¡Oye, cuidado!","¡Oye, cuidado!","Hey, watch it!"
+"¡Ey, compai!","¡Ey, compai!","Hey, buddy!"
+¡Mira por dónde vas!,¡Mira por dónde vas!,Watch where you're going!
+¡Empujón!,¡Empujón!,Shove!
+¡Respeta la mesa!,¡Respeta la mesa!,Respect the table!
+¿Qué? ¿Yo?,¿Qué? ¿Yo?,What? Me?
+¡Te empujaron!,¡Te empujaron!,You got shoved!
+"¡Tapa, tapa!","¡Tapa, tapa!","Cover up, cover up!"
+"¡Ojo, que se paró!","¡Ojo, que se paró!","Careful, they stood up!"
+¿Pa' dónde vas?,¿Pa' dónde vas?,Where you going?
+¡Te toca contar! Toca cada ficha,¡Te toca contar! Toca cada ficha,Your turn to count! Tap each tile
+CONTAR TODAS,CONTAR TODAS,COUNT THEM ALL
+"Te levantas con tus fichas escondidas para mirar la mesa
+(los demás verán que te paras y podrán tapar las suyas)","Te levantas con tus fichas escondidas para mirar la mesa
+(los demás verán que te paras y podrán tapar las suyas)","You stand up with your tiles hidden to look around
+(the others will see you stand and can cover theirs)"
+Vuelve a tu silla para sentarte,Vuelve a tu silla para sentarte,Go back to your chair to sit down
+Ratón: mirar · WASD: caminar · E: sentarse · 1-7: gestos · Q: empujar · Tab: soltar ratón,Mouse: mirar · WASD: caminar · E: sentarse · 1-7: gestos · Q: empujar · Tab: soltar el mouse,Mouse: look · WASD: walk · E: sit · 1-7: gestures · Q: shove · Tab: free the mouse
+No llevas: toca PASO (o mete un chivo…),No llevas: toca PASO (o mete un chivo…),You have none: tap PASS (or sneak a chivo…)
+Clic: sentarte,Clic: sentarte,Click: sit down
+Toca la silla para sentarte,Toca la silla para sentarte,Tap the chair to sit down
+Gestos (1-7),Gestos (1-7),Gestures (1-7)
+VOLVER A LA SALA,VOLVER A LA SALA,BACK TO THE ROOM
+Esa sala ya no está (%s),Esa sala ya no está (%s),That room is gone (%s)
+Esa ficha no casa ahí,Esa ficha no casa ahí,That tile does not fit there
+Toca para jugar a 100 o a 200 puntos,Toca para jugar a 100 o a 200 puntos,Tap to play to 100 or 200 points
+Meta %d ▾,Meta %d ▾,Goal %d ▾
+  ·  Meta:,  ·  Meta:,  ·  Goal:
+Ganadas  %s,Ganadas  %s,Wins  %s
+"Sales de la sala y vuelves a la pizarra (cambiar modo, meta o tu personaje)","Sales de la sala y vuelves a la pizarra (cambiar modo, meta o tu personaje)","Leave the room and go back to the board (change mode, goal or your character)"
+"ESTÁS AUSENTE · tus turnos duran 5 s
+Toca la pantalla o mueve el ratón para volver","ESTÁS AUSENTE · tus turnos duran 5 s
+Toca la pantalla o mueve el mouse para volver","YOU ARE AWAY · your turns last 5 s
+Tap the screen or move the mouse to come back"
+¡De vuelta! Tu turno vuelve a 30 s,¡De vuelta! Tu turno vuelve a 30 s,Welcome back! Your turn is 30 s again
+¡Se acabó el tiempo! Elige el colmadero…,¡Se acabó el tiempo! Elige el colmadero…,Time is up! The shopkeeper picks for you…
+La siguiente mano empieza en %d s,La siguiente mano empieza en %d s,Next hand starts in %d s
+listos %d de 4,listos %d de 4,%d of 4 ready
+%d de 4 listos,%d de 4 listos,%d of 4 ready
+TRANQUE · nadie puede jugar,TRANQUE · nadie puede jugar,BLOCKED · nobody can play
+Gana la pareja que suma MENOS puntos,Gana la pareja que suma MENOS puntos,The team with FEWER points wins
+Nosotros: %s %d + %s %d = %d,Nosotros: %s %d + %s %d = %d,Us: %s %d + %s %d = %d
+Ellos: %s %d + %s %d = %d,Ellos: %s %d + %s %d = %d,Them: %s %d + %s %d = %d
+vosotros,ustedes,you
+ellos,ellos,them
+Empate a %d: gana la pareja que salió (%s),Empate a %d: gana la pareja que salió (%s),Tie at %d: the team that led wins (%s)
+Empate a %d: ¡Tranque seguro!,Empate a %d: ¡Tranque seguro!,Tie at %d: Safe block!
+¡Gana tu pareja!,¡Gana tu pareja!,Your team wins!
+Ganan los rivales,Ganan los rivales,The rivals win
+%s es la mano,%s es la mano,%s leads
+¡La caja!,¡La caja!,The box! (double blank)
+¡El burro!,¡El burro!,The donkey! (double six)
+¡Se acostó!,¡Se acostó!,Laid a double!
+Acostao…,Acostao…,Doubled down…
+¡Doble pa' la mesa!,¡Doble pa' la mesa!,A double for the table!
+¡Se trancó el juego!,¡Se trancó el juego!,The game is blocked!
+¡Tranque! A contar…,¡Tranque! A contar…,Blocked! Time to count…
+¡Esto se trancó!,¡Esto se trancó!,It's locked up!
+%s se la está pensando…,%s se la está pensando…,%s is thinking it over…
+Meta de la partida:,Meta de la partida:,Game goal:
+¡UTE VA! Revisa las fichas de %s,¡UTE VA! Revisa las fichas de %s,UTE VA! Check %s's tiles
+En la mesa: %d y %d · toca la que SÍ iba,En la mesa: %d y %d · toca la que SÍ iba,On the table: %d and %d · tap the one that DID fit
+Te quedan %d s,Te quedan %d s,%d s left
+NO LLEVABA,NO LLEVABA,HAD NONE
+Confirmas que no tenía ninguna que fuera (si sí llevaba el juego te la enseña),"Confirmas que no tenía ninguna ficha que sirviera (si la tenía, el juego te la muestra)",You confirm they had none that fit (if they did the game shows it)
+Revisas las fichas de %s…,Revisas las fichas de %s…,You check %s's tiles…
+%s revisa tus fichas…,%s revisa tus fichas…,%s is checking your tiles…
+%s revisa las fichas de %s…,%s revisa las fichas de %s…,%s is checking %s's tiles…
+El %s no iba · busca otra,El %s no iba · busca otra,The %s did not fit · find another
+¡Te cogí! El %s sí iba,¡Te agarré! El %s sí iba,Caught you! The %s fit
+¡Sí llevaba! Era el %s,¡Sí llevaba! Era el %s,They did have one! It was the %s
+Chocar,Chocar,High five
+Brindar,Brindar,Toast
+¡Choca esa!,¡Choca esa!,High five!
+¡%s choca contigo!,¡%s choca contigo!,%s high-fives you!
+Don Fello brinda contigo · 7: brindar,Don Fello brinda contigo · 7: brindar,Don Fello toasts you · 7: toast
+¡Baile en grupo! (%d),¡Baile en grupo! (%d),Group dance! (%d)
+¡%s te está mirando las fichas! Tápalas,¡%s te está mirando las fichas! Tápalas,%s is peeking at your tiles! Cover them
+IR AL MOSTRADOR ▸,IR AL MOSTRADOR ▸,GO TO THE COUNTER ▸
+Te levantas y vas a pedirle la bebida al colmadero,Te levantas y vas a pedirle la bebida al colmadero,Get up and order your drink from the shopkeeper
+Ve al mostrador a pedir,Ve al mostrador a pedir,Walk to the counter to order
+"¿Qué le sirvo, compai?","¿Qué le sirvo, compai?","What can I get you, compai?"
+"¡Dígame, mi amor!","¡Dígame, mi amor!","What can I get you, sweetie?"
+¿Lo de siempre?,¿Lo de siempre?,The usual?
+MOSTRADOR · tienes %d monedas · bebidas %d/%d,MOSTRADOR · tienes %d monedas · bebidas %d/%d,COUNTER · %d coins · drinks %d/%d
+¡Aquí tiene!,¡Aquí tiene!,Here you go!
+¡Bien fría!,¡Bien fría!,Ice cold!
+¡Buen provecho!,¡Buen provecho!,Enjoy!
+Espera un poco…,Espera un poco…,Wait a moment…
+¡Respeten mi colmado! A tu silla,¡Respeten mi colmado! A tu silla,Respect my shop! Back to your chair
+El colmadero manda a %s a su silla,El colmadero manda a %s a su silla,The shopkeeper sends %s back to their chair
+¡Al suelo! Te levantas en un momento,¡Al suelo! Te levantas en un momento,Knocked down! You get up in a moment
+¡%s te dio un manotazo!,¡%s te dio un manotazo!,%s smacked you!
+¡%s al suelo!,¡%s al suelo!,%s is down!
+¡%s te señala!,¡%s te señala!,%s is pointing at you!
+Ratón: mirar · WASD: caminar · Mayús: correr · clic: señalar o manotazo · E: sentarse · 1-7: gestos · Tab: soltar ratón,Mouse: mirar · WASD: caminar · Shift: correr · clic: señalar o manotazo · E: sentarse · 1-7: gestos · Tab: soltar el mouse,Mouse: look · WASD: walk · Shift: run · click: point or smack · E: sit · 1-7: gestures · Tab: free the mouse
+¡Ojo con la mesa!,¡Ojo con la mesa!,Watch the table!
+¡%s chocó con la mesa!,¡%s chocó con la mesa!,%s bumped into the table!
+Frases rápidas,Frases rápidas,Quick chat
+¡Ay!,¡Ay!,Ouch!
+Chopa,Chopa,Flashy
+Riquito,Riquito,Rich Kid
+Ajentao,Ajentao,Show-off
+Bultero,Bultero,Big Shot
+Tíguere,Tíguere,Streetwise
+"*.mp3, *.ogg, *.wav ; Música","*.mp3, *.ogg, *.wav ; Música","*.mp3, *.ogg, *.wav ; Music"
+"¿Crees que pasó teniendo ficha?
+Si es verdad: %s.
+Si no llevaba: ves su mano, pagas %d monedas
+y su pareja gana %d puntos.","¿Crees que pasó teniendo ficha?
+Si es verdad: %s.
+Si no llevaba: ves su mano, pagas %d monedas
+y su pareja gana %d puntos.","Think they passed with a playable tile?
+If so: %s.
+If they had none: you see their hand, pay %d coins
+and their team gets %d points."
+"Canta si el jugador anterior
+metió una ficha que no casa.
+Si fallas, pagas %d monedas.","Canta si el jugador anterior
+metió una ficha que no casa.
+Si fallas, pagas %d monedas.","Call if the previous player
+played a tile that doesn't fit.
+If you're wrong, pay %d coins."
+"¡Ojo! Llevas ficha: pasar así es renuncio.
+Si el siguiente te canta «¡Ute va!»,
+%s.","¡Ojo! Llevas ficha: pasar así es renuncio.
+Si el siguiente te canta «¡Ute va!»,
+%s.","Careful! You can play: passing is a renege.
+If the next player calls you out,
+%s."
+reloj parado,reloj parado,clock paused
+%s está de pie: espera o siéntalo de un manotazo,%s está de pie: espera o siéntalo de un manotazo,%s is standing: wait or smack them back to their seat
+VISTO,VISTO,GOT IT
+Vistos %d de %d · %d s,Vistos %d de %d · %d s,Seen %d of %d · %d s
+Accesibilidad,Accesibilidad,Accessibility
+ACCESIBILIDAD,ACCESIBILIDAD,ACCESSIBILITY
+Tamaño del texto,Tamaño del texto,Text size
+Grande,Grande,Large
+Muy grande,Muy grande,Very large
+Modo daltónico,Modo daltónico,Colorblind mode
+Menos movimiento,Menos movimiento,Reduce motion
+Controles de PC,Controles de PC,PC controls
+Pararse / sentarse,Pararse / sentarse,Stand up / sit down
+Mirar,Mirar,Look
+Chat,Chat,Chat
+Gesto %d,Gesto %d,Gesture %d
+Pulsa una tecla · Esc cancela,Presiona una tecla · Esc cancela,Press a key · Esc cancels
+Pulsa una tecla para cambiarla,Presiona una tecla para cambiarla,Press a key to change it
+Tecla reservada o ya asignada · prueba otra,Tecla reservada o ya asignada · prueba otra,Reserved or assigned key · try another
+Restablecer controles,Restablecer controles,Reset controls
+Volver a Ajustes,Volver a Ajustes,Back to Settings
+Ratón: mirar · WASD: caminar · Mayús: correr · %s: sentarse · %s: soltar ratón,Mouse: mirar · WASD: caminar · Shift: correr · %s: sentarse · %s: soltar el mouse,Mouse: look · WASD: walk · Shift: run · %s: sit · %s: release mouse
+Buscar salas,Buscar salas,Find rooms
+Pública,Pública,Public
+Privada,Privada,Private
+Todos los modos,Todos los modos,All modes
+Meta: todas,Meta: todas,Target: all
+Meta: %d,Meta: %d,Target: %d
+Con sitio libre,Con sitio libre,With free seats
+Incluir llenas,Incluir llenas,Include full rooms
+Todos los estados,Todos los estados,All states
+Esperando,Esperando,Waiting
+Jugando,Jugando,Playing
+Actualizar,Actualizar,Refresh
+‹ Volver a Sala con amigos,‹ Volver a Sala con amigos,‹ Back to Play with friends
+No hay salas públicas ahora mismo. ¡Crea una!,No hay salas públicas ahora mismo. ¡Crea una!,There are no public rooms right now. Create one!
+No hay salas con estos filtros. Prueba otros o crea una.,No hay salas con estos filtros. Prueba otros o crea una.,No rooms match these filters. Try others or create one.
+Jugando · mano %d,Jugando · mano %d,Playing · hand %d
+Llena,Llena,Full
+En curso,En curso,In progress
+Respuesta de salas no válida,Respuesta de salas no válida,Invalid room list response
+La partida ya empezó,La partida ya empezó,The game has already started
+toca para beber,toca para beber,tap to drink
+se bebe en tu turno,se bebe en tu turno,drink on your turn
+Se bebe en tu turno,Se bebe en tu turno,You drink on your turn
+%s está contando…,%s está contando…,%s is counting…
+ABRIR ▸,ABRIR ▸,OPEN ▸
+Crea una sala, entra con código o busca salas públicas,Crea una sala, entra con código o busca salas públicas,"Create a room, join with a code or browse public rooms"
+Toca la radio: cambiar de pista o apagarla,Toca la radio: cambiar de pista o apagarla,Tap the radio: change track or turn it off
+Clic: cambiar la radio,Clic: cambiar la radio,Click: change the radio
+Tienes puesta tu música: cambia a Colmadón FM en la radio de ajustes,Tienes puesta tu música: cambia a Colmadón FM en la radio de ajustes,Your own music is on: switch to Colmadón FM in the radio settings
+Colmadón FM apagada · toca la radio del colmado,Colmadón FM apagada · toca la radio del colmado,Colmadón FM is off · tap the shop radio
+Colmadón FM · pista %d de %d,Colmadón FM · pista %d de %d,Colmadón FM · track %d of %d
+Tu equipo:,Tu equipo:,Your team:
+Rivales: %s,Rivales: %s,Rivals: %s
+Vuelves a tu silla,Vuelves a tu silla,Back to your seat
+Volviendo a tu sala…,Volviendo a tu sala…,Going back to your room…
+Ver código,Ver código,Show code
+Ocultar código,Ocultar código,Hide code
+Dominó con bots,Dominó con bots,Dominoes with bots
+Con Don Fello contra Yeya y Chichí,Con Don Fello contra Yeya y Chichí,With Don Fello against Yeya and Chichí
+Un aumento cada mano · bebidas y tienda del colmado,Un aumento cada mano · bebidas y tienda del colmado,One boost every hand · drinks and the colmado shop
+Consejo del colmadero,Consejo del colmadero,Shopkeeper's tip
+Aumentos,Aumentos,Boosts
+Robar,Robar,Drawing
+Tu turno,Tu turno,Your turn
+No llevas,No llevas,No match
+¡Chivo!,¡Chivo!,Chivo!
+Bebidas,Bebidas,Drinks
+Tienes bebida,Tienes bebida,You have a drink
+Entendido,Entendido,Got it
+Cada mano eliges una carta. Se acumulan durante toda la partida: piensa qué te conviene a la larga.,Cada mano eliges una carta. Se acumulan durante toda la partida: piensa qué te conviene a la larga.,Each hand you pick a card. They stack for the whole game: think about what helps you in the long run.
+Las fichas están boca abajo sobre la mesa. Toca las 7 que quieras.,Las fichas están boca abajo sobre la mesa. Toca las 7 que quieras.,The tiles are face down on the table. Tap any 7 you like.
+Arrastra a una punta una ficha que case (o haz clic en ella). Gana la mano la pareja que se queda sin fichas.,Arrastra a una punta una ficha que case (o haz clic en ella). Gana la mano la pareja que se queda primero sin fichas.,Drag a matching tile to an end (or click it). The pair that runs out of tiles wins the hand.
+"Ninguna ficha casa: toca PASO. También puedes meter un chivo (poner una que no casa), pero si el siguiente lo canta, perdéis la mano.","Ninguna ficha te sirve: toca PASO. También puedes meter un chivo (poner una que no casa), pero si el siguiente lo canta, pierden la mano.","No tile matches: tap PASS. You can also sneak in a chivo (play one that doesn't match), but if the next player calls it, you lose the hand."
+"Si el jugador anterior puso una ficha que no casa, canta ¡CHIVO! y la mano es vuestra. Si pasó teniendo ficha, el botón dice ¡UTE VA!. Si cantas sin razón, pagas monedas.","Si el jugador anterior puso una ficha que no casa, canta «¡CHIVO!» y la mano es de ustedes. Si pasó teniendo ficha, el botón dice «¡UTE VA!». Si cantas sin razón, pagas monedas.","If the previous player laid a tile that doesn't match, call CHIVO! and the hand is yours. If they passed while holding a match, the button says UTE VA!. Calling it wrongly costs coins."
+Con las monedas que ganas compras bebidas. Cada una rompe una regla en tu turno: tócala en la mano para bebértela.,Con las monedas que ganas compras bebidas. Cada una rompe una regla en tu turno: tócala para tomártela.,Coins you win buy drinks. Each one bends a rule on your turn: tap it during the hand to drink it.
+Tus bebidas salen abajo cuando te toca. Tócala para bebértela antes de jugar.,Tus bebidas salen abajo cuando te toca. Toca una para tomártela antes de jugar.,Your drinks appear below on your turn. Tap one to drink it before playing.
+Escribe un nombre para tu pareja,Escribe un nombre para tu equipo,Type a name for your team
+Rivales: eligiendo nombre…,Rivales: eligiendo nombre…,Rivals: choosing a name…
+Listos %d de %d,Listos %d de %d,Ready %d of %d
+✓ LISTO,✓ LISTO,✓ READY
+… no listo,… no listo,… not ready
+Primero acordad el nombre de tu pareja,Primero pónganse de acuerdo con el nombre del equipo,First agree on your team name
+Pulsa otra vez si aún no estás listo,Tócalo otra vez si todavía no estás listo,Press again if you're not ready yet
+Avisa de que estás listo para jugar,Avisa de que estás listo para jugar,Let everyone know you're ready
+Todos listos: ¡a jugar!,Todos listos: ¡a jugar!,Everyone's ready: let's play!
+Faltan por estar listos: %s,Faltan por estar listos: %s,Still not ready: %s
+Todos listos: el anfitrión puede empezar,Todos listos: el anfitrión puede empezar,Everyone's ready: the host can start
+Esperando a que todos estén listos…,Esperando a que todos estén listos…,Waiting for everyone to be ready…
+Tu equipo: %s,Tu equipo: %s,Your team: %s
+Nombre acordado: ya no se cambia,Nombre acordado: ya no se cambia,Name agreed: it can't be changed
+Nombre puesto: ya no se cambia,Nombre puesto: ya no se cambia,Name set: it can't be changed
+Propusiste «%s»,Propusiste «%s»,You proposed “%s”
+Esperando a que tu pareja diga si le gusta…,Esperando a que tu pareja diga si le gusta…,Waiting for your partner to answer…
+Tu pareja propone «%s»,Tu pareja propone «%s»,Your partner proposes “%s”
+Me gusta ✓,Me gusta ✓,I like it ✓
+No ✗,No ✗,No ✗
+"Si no te gusta, te toca a ti proponer uno","Si no te gusta, te toca a ti proponer uno","If you don't like it, you propose one"
+"Si dices que no, te toca proponer a ti","Si dices que no, te toca proponer a ti","If you say no, it's your turn to propose"
+Tu pareja está eligiendo el nombre…,Tu pareja está eligiendo el nombre del equipo…,Your partner is choosing the name…
+No te gustó «%s»: ahora propone tu pareja,No te gustó «%s»: ahora propone tu pareja,You didn't like “%s”: now your partner proposes
+Nombre de tu pareja:,Nombre de tu equipo:,Team name:
+máx. 8 letras,máx. 8 letras,max. 8 letters
+Proponer ✓,Proponer ✓,Propose ✓
+Confirmar ✓,Confirmar ✓,Confirm ✓
+Tu pareja tendrá que aceptarlo,Tu pareja tendrá que aceptarlo,Your partner will have to accept it
+Tu pareja es un bot: vale al momento,Tu pareja es un bot: lo acepta al momento,Your partner is a bot: it counts right away
+A tu pareja no le gustó «%s»: te toca a ti,A tu pareja no le gustó «%s»: te toca a ti,Your partner didn't like “%s”: your turn
+"Antes de LISTO, poned nombre a vuestro equipo","Antes de LISTO, pónganle nombre a su equipo","Before READY, name your team"
+Sentarme aquí,Sentarme aquí,Sit here
+Pedir su silla,Pedir su silla,Ask for their seat
+Silla libre: te sientas al momento,Silla libre: te sientas al momento,Free seat: you sit right away
+%s tendrá que aceptar el cambio,%s tendrá que aceptar el cambio,%s will have to accept the swap
+%s quiere sentarse en tu silla,%s quiere sentarse en tu silla,%s wants to sit in your seat
+Esperando a que %s acepte el cambio…,Esperando a que %s acepte el cambio…,Waiting for %s to accept the swap…
+%s pide la silla de %s,%s pide la silla de %s,%s asks for %s's seat
+ti,ti,you
+Os cambiáis de silla (y de pareja si cambia el lado),Se cambian de silla (y de pareja si cambian de lado),You swap seats (and partners if you change sides)
+Aceptar ✓,Aceptar ✓,Accept ✓
+Rechazar ✗,Rechazar ✗,Decline ✗
+A tu pareja no le gustó «%s»,A tu pareja no le gustó «%s»,Your partner didn't like “%s”
+¡Equipo %s!,¡Equipo %s!,Team %s!
+No respondió a tiempo,No respondió a tiempo,No answer in time
+%s prefiere quedarse en su silla,%s prefiere quedarse en su silla,%s prefers to stay in their seat
+%s se cambió de silla,%s se cambió de silla,%s changed seats
+quedan %d s,quedan %d s,%d s left
+Vuelves a tu silla…,Vuelves a tu silla…,Back to your seat…
+¡Amago!,¡Amago!,Feint!
+¡Se las quitó a %s!,¡Se las quitó a %s!,Snatched them from %s!
+%s entrega sus fichas,%s entrega sus fichas,%s hands over their tiles
+Entregas tus fichas,Entregas tus fichas,You hand over your tiles
+¡Te toca! Gira tus fichas · %d s,¡Te toca! Gira tus fichas · %d s,Your turn! Flip your tiles · %d s
+%s gira sus fichas…,%s gira sus fichas…,%s is flipping their tiles…
+GIRAR UNA,GIRAR UNA,FLIP ONE
+AMAGAR,AMAGAR,FEINT
+Levantas la ficha y la vuelves a dejar: que sufran,Levantas la ficha y la vuelves a dejar: que sufran,Lift the tile and put it back: make them suffer
+ENTREGAR MIS FICHAS,ENTREGAR MIS FICHAS,HAND OVER MY TILES
+Quitar a %s,Quitar a %s,Take from %s
+O toca sus fichas en la mesa,O toca sus fichas en la mesa,Or tap their tiles on the table
+%s recoge las fichas…,%s recoge las fichas…,%s is collecting the tiles…
+TRANQUE · gana la pareja que suma MENOS,TRANQUE · gana la pareja que suma MENOS,BLOCKED · the pair with FEWER points wins
+Empate a %d: gana la pareja que salió,Empate a %d: gana la pareja que salió,Tie at %d: the pair that opened wins
+%s recoge %d puntos,%s recoge %d puntos,%s collects %d points
+Vistos %d de 4  %s  · %d s,Vistos %d de 4  %s  · %d s,Seen %d of 4  %s  · %d s
+¡Recoge las fichas! Toca las de cada uno,¡Recoge las fichas! Toca las de cada uno,Collect the tiles! Tap each player's
+Entrega tus fichas a %s,Entrega tus fichas a %s,Hand your tiles to %s
+Cuentas: %d,Cuentas: %d,You count: %d
+%s cuenta: %d,%s cuenta: %d,%s counts: %d
+¡Tranque! Nadie lleva…,¡Tranque! Nadie lleva…,Blocked! Nobody can play…
+¡%d puntos para tu pareja!,¡%d puntos para tu pareja!,%d points for your team!
+¡%d puntos para los rivales!,¡%d puntos para los rivales!,%d points for the rivals!
+ENTREGAR,ENTREGAR,HAND OVER
+Entregas tus fichas al ganador,Entregas tus fichas al ganador,You hand your tiles to the winner
+Usar / jugar ficha,Usar / jugar ficha,Use / play tile
+¡Chivo! / ¡Ute va!,¡Chivo! / ¡Ute va!,Chivo! / Ute va!
+Mirar la mesa,Mirar la mesa,View the table
+Alt: soltar el ratón,Alt: soltar el mouse,Alt: free the mouse
+Recoger mis fichas,Recoger mis fichas,Collect my tiles
+Espacio,Espacio,Space
+PARARSE,PARARSE,STAND UP
+Modo cámara (mirar con el ratón),Modo cámara (mirar con el mouse),Camera mode (look with the mouse)
+Clic derecho: apuntar · Clic: disparar · WASD: caminar · %s: sentarse,Clic derecho: apuntar · Clic: disparar · WASD: caminar · %s: sentarse,Right click: aim · Click: shoot · WASD: walk · %s: sit down
+A %s en %s · %d,A %s en %s · %d,%s hit in %s · %d
+¡%s cayó! (%s),¡%s cayó! (%s),%s is down! (%s)
+la cabeza,la cabeza,the head
+el pecho,el pecho,the chest
+un brazo,un brazo,an arm
+una pierna,una pierna,a leg
+Con armas,Con armas,With weapons
+Sin armas,Sin armas,No weapons
+Arma,Arma,Weapon
+Pistola,Pistola,Pistol
+Revólver,Revólver,Revolver
+Balas: %d,Balas: %d,Bullets: %d
++1 bala · %d pesos (tienes %d),+1 bala · %d pesos (tienes %d),+1 bullet · %d pesos (you have %d)
+Las armas vienen sin balas. Solo en salas privadas «con armas»,Las armas vienen sin balas. Solo en salas privadas «con armas»,Weapons come without bullets. Only in private rooms «with weapons»
+Sin balas · cómpralas en el espejo,"Sin balas · cómpralas en «Tu personaje», pestaña Arma",Out of bullets · buy them at the mirror
+¡%s te dio en %s! · %d,¡%s te dio en %s! · %d,%s hit you in %s! · %d
+ESTÁS MUERTO,ESTÁS MUERTO,YOU'RE DEAD
+%s te disparó,%s te disparó,%s shot you
+Volver al colmado,Volver al colmado,Back to the colmado
+"Tu turno espera; si tardas, juega tu bot","Tu turno espera; si tardas, juega tu bot","Your turn waits; if you take too long, your bot plays"
+Salir al menú,Salir al menú,Quit to menu
+Vuelve a tu silla para jugar,Vuelve a tu silla para jugar,Go back to your chair to play
+Llévala a una punta (o clic derecho para devolverla),Llévala a una punta (o clic derecho para devolverla),Take it to an end (or right click to put it back)
+Clic o %s: soltar en la punta · Clic derecho: devolver,Clic o %s: soltar en la punta · Clic derecho: devolver,Click or %s: drop on the end · Right click: put back
+Crear sala,Crear sala,Create room
+Unirse,Unirse,Join
+CREAR,CREAR,CREATE
+Entrar,Entrar,Enter
+Buscar,Buscar,Search
+%d puntos,%d puntos,%d points
+Ponte un nombre,Ponte un nombre,Pick a name
+CÓDIGO,CÓDIGO,CODE
+Juegas con tu personaje del espejo. Toca para cambiarlo.,Juegas con este personaje. Tócalo para cambiarlo.,You play as your mirror character. Tap to change it.
+"Con aumentos: una carta cada mano, bebidas y tienda.","Con aumentos: una carta cada mano, bebidas y tienda.","Boosts: a card every hand, drinks and shop."
+Clásico: sin aumentos ni bebidas; el renuncio pierde la partida.,Clásico: sin aumentos ni bebidas; el renuncio pierde la partida.,Classic: no boosts or drinks; a renege loses the game.
+Pública: cualquiera la encuentra en «Buscar».,Pública: cualquiera la encuentra en «Buscar».,Public: anyone can find it in «Search».
+Privada: solo entra quien tenga el código.,Privada: solo entra quien tenga el código.,Private: only people with the code can join.
+Las armas solo van en salas privadas.,Las armas solo van en salas privadas.,Guns are only allowed in private rooms.
+Con armas: pistola en las piernas; los tiros quitan vida.,Con armas: pistola en las piernas; los tiros quitan vida.,With guns: a pistol on your lap; shots take health.
+Puntos para ganar la partida: 100 o 200.,Puntos para ganar la partida: 100 o 200.,Points to win the game: 100 or 200.
+El código de 6 letras que te pasó quien creó la sala.,El código de 6 letras que te pasó quien creó la sala.,The 6-letter code from whoever created the room.
+Salas públicas abiertas ahora mismo.,Salas públicas abiertas ahora mismo.,Public rooms open right now.
+Todos,Todos,All
+Todas,Todas,All
+Con sitio,Con sitio,With a seat
+Llenas también,Llenas también,Full too
+Cualquiera,Cualquiera,Any
+Mano %d,Mano %d,Hand %d
+No hay salas abiertas,No hay salas abiertas,No open rooms
+Nada con estos filtros,Nada con estos filtros,Nothing with these filters
+CREAR UNA,CREAR UNA,CREATE ONE
+"Qué modo de juego: todos, clásico o con aumentos.","Qué modo de juego: todos, clásico o con aumentos.","Game mode: all, classic or with boosts."
+"Meta de la partida: todas, 100 o 200 puntos.","Meta de la partida: todas, 100 o 200 puntos.","Game target: all, 100 or 200 points."
+Ver solo salas con alguna silla libre.,Ver solo salas con alguna silla libre.,Only show rooms with a free seat.
+Salas esperando gente o ya jugando.,Salas esperando gente o ya jugando.,Rooms waiting for players or already playing.
+Volver a mirar ahora (se actualiza solo cada 5 s).,Actualizar ahora (la lista se actualiza sola cada 5 s).,Check again now (it refreshes every 5 s).
+Copiar,Copiar,Copy
+vs %s,vs %s,vs %s
+vs …,vs …,vs …
+Nombre del equipo,Nombre del equipo,Team name
+Esperando al anfitrión…,Esperando al anfitrión…,Waiting for the host…
+Tu pareja elige el nombre…,Tu pareja elige el nombre del equipo…,Your partner is picking the name…
+No le gustó «%s»: otro,No le gustó «%s»: otro,They didn't like «%s»: try another
+Me gusta,Me gusta,I like it
+"Personas en la sala. Si faltan, los bots juegan las sillas libres.","Personas en la sala. Si faltan, los bots juegan las sillas libres.",People in the room. Bots play any empty seats.
+Copia el código para pasárselo a tus amigos,Copia el código para pasárselo a tus amigos,Copy the code to share with your friends
+"Volver a la pizarra: sales de la sala (para cambiar modo, meta o tu personaje)","Volver a la pizarra: sales de la sala (para cambiar modo, meta o tu personaje)","Back to the board: you leave the room (to change mode, target or your character)"
+Los rivales aún eligen su nombre,Los rivales aún eligen su nombre,Your rivals are still picking their name
+Vuestros rivales,Sus rivales,Your rivals
+"Tu pareja propone este nombre. Si dices que no, te toca proponer a ti","Tu pareja propone este nombre. Si dices que no, te toca proponer a ti","Your partner suggests this name. If you say no, it is your turn to suggest one"
+No me gusta: te toca a ti proponer uno,No me gusta: te toca a ti proponer uno,I don't like it: you suggest one
+"Antes de LISTO, poned nombre a vuestra pareja (máx. 8 letras)","Antes de LISTO, pónganle nombre a su equipo (máx. 8 letras)","Before READY, name your team (max. 8 letters)"
+Proponer: tu pareja tendrá que aceptarlo,Proponer: tu pareja tendrá que aceptarlo,Suggest: your partner has to accept it
+"Confirmar: tu pareja es un bot, vale al momento",Confirmar: tu pareja es un bot y lo acepta al momento,"Confirm: your partner is a bot, it counts right away"
+Modo cámara,Modo cámara,Camera mode
+Mueves la vista con el ratón y juegas con la mira del centro (clic o E). Mantén Alt para soltar el ratón y pulsar botones; Tab enseña la mesa desde arriba.,Mueves la vista con el mouse y juegas con la mira del centro (clic o E). Mantén Alt para soltar el mouse y presionar botones; Tab muestra la mesa desde arriba.,Move the view with the mouse and play with the crosshair in the middle (click or E). Hold Alt to free the mouse and press buttons; Tab shows the table from above.
+Ver todas las opciones,Ver todas las opciones,See every option
+Girar a tu personaje (también arrastrando),Girar a tu personaje (también puedes arrastrar),Turn your character (you can also drag)
+Redondos,Redondos,Round
+Cuadrados,Cuadrados,Square
+"Suelta el clic en una punta · fuera de ella, vuelve a tu mano","Suelta el clic en una punta · fuera de ella, vuelve a tu mano","Release the click on an end · anywhere else, it goes back to your hand"
+¡Te toca contar! Toca cada ficha · %d s,¡Te toca contar! Toca cada ficha · %d s,Your turn to count! Tap each tile · %d s
+%s entregó ✓,%s entregó ✓,%s handed in ✓
+Ese nombre ya lo tienen los rivales,Ese nombre ya lo tienen los rivales,The rivals already have that name
+%s se quedó sin fichas,%s se quedó sin fichas,%s ran out of tiles
+la última casaba por las dos puntas (%d y %d),la última casaba por las dos puntas (%d y %d),the last one fit both ends (%d and %d)
+VISTO ✓,VISTO ✓,SEEN ✓
+RECLAMAR,RECLAMAR,CLAIM
+Visto ✓,Visto ✓,Seen ✓
+Compruébalo en la mesa,Compruébalo en la mesa,Check it on the table
+%s reclama: el colmadero revisa la mesa…,%s reclama: el colmadero revisa la mesa…,%s claims: the shopkeeper checks the table…
+Puntas %d y %d: capicúa buena ✓,Puntas %d y %d: capicúa buena ✓,Ends %d and %d: valid capicúa ✓
+Bandeja vacía: dominó bueno ✓,Bandeja vacía: dominó bueno ✓,Empty rack: valid domino ✓
+Te quedaste sin fichas,Te quedaste sin fichas,You ran out of tiles
+Aún boca abajo,Aún boca abajo,Still face down
+Te levantas con tus fichas escondidas,Te levantas con tus fichas escondidas,You stand up with your tiles hidden
+¡%s te las quitó!,¡%s te las quitó!,%s took them from you!

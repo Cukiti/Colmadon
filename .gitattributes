@@ -1,0 +1,2 @@
+# los scripts se ejecutan en Linux (máquina de Google Cloud): siempre LF
+*.sh text eol=lf

@@ -1,0 +1,5 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": { "outFile": "./build-test/sala.js", "lib": ["es2015", "dom"] },
+  "files": ["./node_modules/nakama-runtime/index.d.ts", "./src/reglas.ts", "./src/sala.ts", "./tests/sala.test.ts"]
+}
